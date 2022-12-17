@@ -1,6 +1,6 @@
 # Discover-Social-Tree
 
-📜 In this challenge you can create a web page to be your portfolio and resume. Using HTML and CSS.
+📜 In this challenge you have to create a page with a list of links that can be used in social network profiles.. Using HTML and CSS.
 
 <p align="center">
 <!-- <img src="" alt="Fernando Nunes" border="0"> -->
